@@ -478,7 +478,4 @@ This project is provided for educational and research purposes. Modify configura
 
 **Made with ❤️ for predictive maintenance and operational excellence**
 
-```
-
----
 
