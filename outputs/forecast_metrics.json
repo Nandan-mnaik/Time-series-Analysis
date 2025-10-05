@@ -1,0 +1,9 @@
+{
+  "model_type": "ridge",
+  "rmse_model": 12.266672503813824,
+  "mae_model": 7.613722887096408,
+  "rmse_baseline": 16.396457309573204,
+  "mae_baseline": 9.907186971682163,
+  "improvement_rmse": 25.18705551929301,
+  "improvement_mae": 23.149498350451974
+}
