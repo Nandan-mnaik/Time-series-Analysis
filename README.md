@@ -5,9 +5,6 @@
 # 🔧 Cyclone Machine Data Analysis
 > A comprehensive time-series analysis pipeline for industrial cyclone sensor data featuring shutdown detection, operational state clustering, contextual anomaly detection, and predictive forecasting.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Complete-success)
 
 ---
 
