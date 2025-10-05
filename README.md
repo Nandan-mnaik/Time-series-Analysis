@@ -190,10 +190,4 @@ The notebook includes optimized implementations for large datasets:
 
 ## License
 
-This project is provided as-is for data analysis purposes.[1]
-
-## Author
-
-Generated analysis pipeline for cyclone machine operational monitoring and predictive maintenance.[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/33929981/be413801-3de7-4c86-a442-bcbe2781ad3e/Project.ipynb)
+This project is provided as-is for data analysis purposes.
