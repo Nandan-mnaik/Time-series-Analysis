@@ -1,5 +1,3 @@
-Now I'll generate a comprehensive README file in markdown format based on the notebook analysis:
-
 # Cyclone Machine Data Analysis Pipeline
 
 A comprehensive time series analysis pipeline for cyclone machine operational data, featuring preprocessing, exploratory analysis, shutdown detection, operational state clustering, anomaly detection, and forecasting capabilities.[1]
