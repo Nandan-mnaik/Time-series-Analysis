@@ -1,4 +1,3 @@
-Here’s your README converted into **clean, ready-to-use Markdown format** (you can directly paste this into a GitHub `README.md` file):
 
 ---
 
